@@ -1,0 +1,39 @@
+.container-navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-title {
+  font-weight: bold; /* Make the text bold */
+  color: #c96ec1; /* Example color (Tomato) */
+  font-size: 34px; /* Example font size */
+  font-family: 'Arial', sans-serif; /* Example font family */
+  letter-spacing: 1px; /* Example letter spacing */
+  text-transform: uppercase; /* Make the text uppercase */
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  padding: 20px 0;
+  top: 0;
+  width: 100%;
+  height: 60px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.link {
+  color: #0f0218; 
+  padding: 15px 50px;
+  text-decoration: none;
+  margin-left: 2px;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+.link:hover {
+  color: #baa1d1; 
+}
