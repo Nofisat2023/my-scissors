@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scissors/static/css/main.9973e71f.css",
+    "main.js": "/scissors/static/js/main.dffca0d8.js",
+    "index.html": "/scissors/index.html",
+    "main.9973e71f.css.map": "/scissors/static/css/main.9973e71f.css.map",
+    "main.dffca0d8.js.map": "/scissors/static/js/main.dffca0d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9973e71f.css",
+    "static/js/main.dffca0d8.js"
+  ]
+}
