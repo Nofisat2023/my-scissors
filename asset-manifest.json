@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/scissors/static/css/main.9973e71f.css",
-    "main.js": "/scissors/static/js/main.dffca0d8.js",
-    "index.html": "/scissors/index.html",
-    "main.9973e71f.css.map": "/scissors/static/css/main.9973e71f.css.map",
-    "main.dffca0d8.js.map": "/scissors/static/js/main.dffca0d8.js.map"
+    "main.css": "/my-scissors/static/css/main.9973e71f.css",
+    "main.js": "/my-scissors/static/js/main.12b54277.js",
+    "index.html": "/my-scissors/index.html",
+    "main.9973e71f.css.map": "/my-scissors/static/css/main.9973e71f.css.map",
+    "main.12b54277.js.map": "/my-scissors/static/js/main.12b54277.js.map"
   },
   "entrypoints": [
     "static/css/main.9973e71f.css",
-    "static/js/main.dffca0d8.js"
+    "static/js/main.12b54277.js"
   ]
 }
